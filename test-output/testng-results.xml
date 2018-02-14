@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4353" started-at="2018-02-13T21:38:52Z" finished-at="2018-02-13T21:38:56Z">
+  <suite name="Default suite" duration-ms="4867" started-at="2018-02-14T18:52:32Z" finished-at="2018-02-14T18:52:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4353" started-at="2018-02-13T21:38:52Z" finished-at="2018-02-13T21:38:56Z">
-      <class name="exercises.Exercise8">
-        <test-method status="PASS" signature="testExercise8()[pri:0, instance:exercises.Exercise8@4c70fda8]" name="testExercise8" duration-ms="4337" started-at="2018-02-13T21:38:52Z" finished-at="2018-02-13T21:38:56Z">
+    <test name="Default test" duration-ms="4867" started-at="2018-02-14T18:52:32Z" finished-at="2018-02-14T18:52:37Z">
+      <class name="exercises.Exercise9_2">
+        <test-method status="PASS" signature="testExercise9_2()[pri:0, instance:exercises.Exercise9_2@4c70fda8]" name="testExercise9_2" duration-ms="4855" started-at="2018-02-14T13:52:32Z" finished-at="2018-02-14T13:52:37Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testExercise8 -->
-      </class> <!-- exercises.Exercise8 -->
+        </test-method> <!-- testExercise9_2 -->
+      </class> <!-- exercises.Exercise9_2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
